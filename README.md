@@ -2,6 +2,10 @@ Project Overview
 
 This project aims to build a machine learning model to predict price movements of the S&P 500 stock market index.
 
+Warning
+
+I am not liable for any losses faced due to the following model, proceed with caution.
+
 Key Steps:
 
 Acquire historical price data using the yfinance package
@@ -20,3 +24,7 @@ Package dependencies: pandas, yfinance, scikit-learn
 Data Acquisition:
 
 Historical stock price data for the S&P 500 will be downloaded programmatically using the yfinance library as model input.
+
+Trading Techniques(Just for Information, proceed with caution)
+
+You can use the above data to do call option rolling on S&P 500
